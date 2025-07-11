@@ -37,5 +37,5 @@ An interactive Excel-based dashboard that allows you to:
 
 ---
 
-## 🙌 Let me know what you think, and don’t hesitate to ⭐ the repo or connect on [LinkedIn]([https://www.linkedin.com/in/mustafa-oun/])
+## 🙌 Let me know what you think, and don’t hesitate to ⭐ the repo or connect on [LinkedIn](https://www.linkedin.com/in/mustafa-oun/)
 
